@@ -65,8 +65,3 @@ Test your system with:
 
 
 
-## ⚠️ Academic Integrity
-This is an individual assignment.  
-Plagiarism or code sharing will result in disciplinary action.
-
-
